@@ -11,9 +11,9 @@ public class Question3
      */
      
     Scanner in = new Scanner(System.in);
-    System.out.print("Enter Number: ");
+    
     int x = in.nextInt();
-    System.out.print("Number Squared: " + x * x);
+    System.out.print(x * x);
     
     
   }
