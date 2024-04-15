@@ -17,6 +17,7 @@ public class Question4
      * Hint: 2 loops are required. System.out.print(...) to print on single line.
      */
      
+    // Test 1
     Scanner in = new Scanner(System.in);
     
     int number = in.nextInt();

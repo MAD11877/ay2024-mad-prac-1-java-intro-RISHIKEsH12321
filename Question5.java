@@ -28,6 +28,7 @@ public class Question5
      * Hint: Use a loop to get input. Use another 2 loops to find the mode
      */
      
+    // Test 1
     Scanner in = new Scanner(System.in);
     
     int size = in.nextInt();
